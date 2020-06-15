@@ -1,0 +1,43 @@
+/* ---------------------------------------- Main Body and Block Settings */
+
+body {
+    font-family: 'Work Sans', sans-serif;
+    margin: 30px;
+    background-color: blueviolet;
+}
+
+.contintro {
+    border: 1px solid blue;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.contimage {
+    border: 1px solid red;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.contref {
+    border: 1px solid greenyellow;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.rowref {
+    border: 3px solid brown;
+    height: 300px;
+}
+
+.colref {
+    border: 3px dotted purple;
+}
+
+
+/* ---------------------------------------- Images */
+
+.logo {
+    margin-right: 5%;
+    max-width: 10%;
+    height: auto;
+}
