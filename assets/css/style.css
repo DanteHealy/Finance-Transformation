@@ -9,7 +9,7 @@ body {
 .contintro {
     border: 1px solid blue;
     padding-top: 15px;
-    padding-bottom: 15px;
+    padding-bottom: 15px;    
 }
 
 .contimage {
@@ -24,15 +24,21 @@ body {
     padding-bottom: 15px;
 }
 
+.rowhead {
+    border: 3px dotted purple;
+    height: 100px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .rowref {
     border: 3px solid brown;
     height: 300px;
 }
 
 .colref {
-    border: 3px dotted purple;
+    border: 3px dotted teal;    
 }
-
 
 /* ---------------------------------------- Images */
 
@@ -40,4 +46,25 @@ body {
     margin-right: 5%;
     max-width: 10%;
     height: auto;
+}
+
+
+/* ---------------------------------------- Footer-Social-Media */
+
+
+.social-media {
+    text-align: center;
+    display: inline;
+}
+
+.social-media i {
+    color: white;
+    margin: 5%;
+    padding: 1%;
+}
+
+.social-media i:hover {
+    color: orangered;
+    transition-delay: 0.2s;
+    transition-timing-function: ease-in-out;
 }
