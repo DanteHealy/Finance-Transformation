@@ -9,7 +9,7 @@ body {
 .contintro {
     border: 1px solid blue;
     padding-top: 15px;
-    padding-bottom: 15px;    
+    padding-bottom: 15px; 
 }
 
 .contimage {
@@ -26,20 +26,17 @@ body {
 
 .rowhead {
     border: 3px dotted purple;
-    height: 100px;
-    padding-top: 10px;
-    padding-bottom: 10px;
-}
-
-.rowhead2 {
-    border: 3px dotted purple;
     height: 150px;
     padding-top: 10px;
     padding-bottom: 10px;
 }
 
 .rowref {
-    border: 3px solid brown;
+    border: 3px solid brown;  
+}
+
+.rowimage {
+    border: 3px dotted black;  
     height: 300px;
 }
 
