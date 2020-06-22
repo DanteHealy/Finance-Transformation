@@ -3,7 +3,7 @@
 body {
     font-family: 'Work Sans', sans-serif;
     margin: 30px;
-    background-color: blueviolet;
+    background-color: purple;        
 }
 
 .contintro {
@@ -26,18 +26,21 @@ body {
 
 .rowhead {
     border: 3px dotted purple;
-    height: 150px;
-    padding-top: 10px;
+    padding-top: 70px;
     padding-bottom: 10px;
+    overflow: hidden;
 }
 
 .rowref {
     border: 3px solid brown;  
+    padding-top: 10px;
+    padding-bottom: 10px;
+    overflow: hidden;
 }
 
 .rowimage {
     border: 3px dotted black;  
-    height: 300px;
+    overflow: hidden;
 }
 
 .colref {
@@ -58,6 +61,51 @@ body {
     height: 200px;
 }
 
+.transform-pic {    
+    width: 100%;
+    height: auto; 
+}
+
+.future-pic {
+    height: 100%;
+    width: auto;    
+}
+
+.office-admin {
+    height: 100%;
+    width: auto; 
+}
+
+.pain-pic {
+    width: 100%; 
+    height: auto;    
+}
+
+.project-pic {
+    width: 100%; 
+    height: auto;
+}
+
+.future-pic {
+    height: 100%;
+    width: auto; 
+}
+
+.flash-arrow i {
+    font-size: 10em;
+    color: red;
+    text-shadow: 5px 5px 5px yellow;
+    padding-top: 20px;
+}
+
+.blink {
+    animation: blinker 0.5s cubic-bezier(.5, 0, 1, 1) infinite alternate;  
+}
+
+@keyframes blinker {  
+  from { opacity: 1; }
+  to { opacity: 0; }
+}
 
 /* ---------------------------------------- Footer-Social-Media */
 
