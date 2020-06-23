@@ -9,8 +9,9 @@
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"/>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet">
 
-<!--Include for the carousel-->
+<!--Include for the toggler and carousel-->
     <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
 
 </head>
@@ -19,22 +20,26 @@
 
 <!--Navbar Header Setup-->
 
-        <nav class="navbar navbar-expand-md fixed-top navbar-dark bg-dark">
+         <nav class="navbar navbar-expand-md fixed-top navbar-dark bg-dark">
             <div class="container-fluid">
                 <img src="assets/images/Logo2.JPG" class="logo rounded float-left" alt="Logo image: Finance Transformation">
                 <a href="https://www.linkedin.com/in/dantehealy/" target="_blank" class="navbar-heading">Finance Transformation</a>
-
-                <ul class="navbar-nav ml-auto" id="navbarmenu">
-                    <li class="nav-item">
-                        <a href="index.html" class="nav-link">Home </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="opmodel.html" class="nav-link">Operating Model </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="resume.html" class="nav-link">Contact </a>
-                    </li>            
-                </ul>
+                <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarmenu">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                    <div class="collapse navbar-collapse" id="navbarmenu">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a href="index.html" class="nav-link">Home </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="opmodel.html" class="nav-link">Operating Model </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="resume.html" class="nav-link">Contact </a>
+                            </li>            
+                        </ul>
+                    </div>
             </div>
         </nav>
 
@@ -51,12 +56,12 @@
         </div>
 
         <div class="container contref">
-            <div class="row justify-content-between rowref">
-                <div class="col-4 colref d-flex justify-content-center">
+            <div class="row justify-content-around rowref">
+                <div class="col-md-4 col-sm-4 colref d-flex justify-content-center">
                     <img src="assets/images/DHealy.jpg" alt="My Profile Picture" style="width: 300px;height: 300px;" class="img-fluid">
-                </div>            
-                <div class="col-8 colref">
-                    <p>I am a Senior Finance Leader and Financial Transformation Project Specialist, developing and implementing end-to-end financial and business change strategies for dynamic agile businesses to drive growth.</p>
+                </div>         
+                <div class="col-md-8 col-sm-8 colref">
+                    <p>I'm a Senior Finance Leader and Financial Transformation Project Specialist, developing and implementing end-to-end financial and business change strategies for dynamic agile businesses to drive growth.</p>
                     <p>As a certified change project leader, I effectively lead global change initiatives and deliver complex business analysis/process re-engineering while leveraging my comprehensive knowledge of integrated technology solutions to ensure compliance and drive process improvements through automation and integration. This recently includes leading a finance transformation programme at FCE UK to introduce a common, automated finance system that delivered $5.1m of cost savings p/a for Accounting across Europe.</p>
                     <p>I have a proven track record of rapidly identifying the critical drivers for cross-functional business success while establishing the necessary KPI's and reporting to optimise performance.</p>
                 </div>            
@@ -70,18 +75,21 @@
                 <div class="col-5 colref" align="center">
                     <h3>Have a challenge and want to get in touch?</h3>  
                 </div>                                                       
-            </div>
-            <div class="row justify-content-around flash-arrow">                
-                <div class="col-md-1 col-sm-1 colref">
-                    <i class="fas fa-long-arrow-alt-down blink"></i>
-                </div>                
-            </div>                        
+            </div>            
+        </div>
+
+        <div class="container text-center flash-arrow">                                
+            <i class="fas fa-long-arrow-alt-down blink"></i>            
+        </div>                        
+
+        <div class="container contintro">                        
             <div class="row justify-content-around rowref">                
                 <div class="col-sm-2 span2">
                     <a href="mailto:dantepmhealy@gmail.com?subject=Finance Transformation - Inquiry from your Webpage!" type="button" class="btn btn-primary btn-block btn-lg">Send me an Email</a> 
                 </div>                
             </div>                        
         </div>
+
 
 <!--My personal endorsements on a carousel-->
 
@@ -132,12 +140,14 @@
                 <div class="col-5 colref" align="center">
                     <h3>Need an experienced Finance Change agent?</h3>
                 </div>                
-            </div>
-            <div class="row justify-content-around flash-arrow">                                
-                <div class="col-md-1 col-sm-1 colref">
-                    <i class="fas fa-long-arrow-alt-down blink"></i>
-                </div>
-            </div>                        
+            </div>            
+        </div>
+
+        <div class="container text-center flash-arrow">                                
+            <i class="fas fa-long-arrow-alt-down blink"></i>            
+        </div>                        
+
+        <div class="container contintro">                        
             <div class="row justify-content-around rowref">                                
                 <div class="col-sm-2 span2">
                     <a class="btn btn-success btn-block btn-lg" role="button" href="assets/docs/my-cv.pdf" target="_blank">Download my CV/Resume</a>                    

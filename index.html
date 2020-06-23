@@ -8,6 +8,12 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"/>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet">
+
+<!--Include for the toggler-->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
 </head>
 
 <body class="bg-info text-white">
@@ -18,21 +24,24 @@
             <div class="container-fluid">
                 <img src="assets/images/Logo2.JPG" class="logo rounded float-left" alt="Logo image: Finance Transformation">
                 <a href="https://www.linkedin.com/in/dantehealy/" target="_blank" class="navbar-heading">Finance Transformation</a>
-
-                <ul class="navbar-nav ml-auto" id="navbarmenu">
-                    <li class="nav-item">
-                        <a href="index.html" class="nav-link">Home </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="opmodel.html" class="nav-link">Operating Model </a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="resume.html" class="nav-link">Contact </a>
-                    </li>            
-                </ul>
+                <button class="navbar-toggler" data-toggle="collapse" data-target="#navbarmenu">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+                    <div class="collapse navbar-collapse" id="navbarmenu">
+                        <ul class="navbar-nav ml-auto">
+                            <li class="nav-item">
+                                <a href="index.html" class="nav-link">Home </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="opmodel.html" class="nav-link">Operating Model </a>
+                            </li>
+                            <li class="nav-item">
+                                <a href="resume.html" class="nav-link">Contact </a>
+                            </li>            
+                        </ul>
+                    </div>
             </div>
         </nav>
-
 
 <!--Main Body Layout-->
 
@@ -51,7 +60,7 @@
         </div>
     </div>
 
-<!--Insert Fluid Hero Image-->
+<!--Insert Fluid Hero Image and Finance Desired state-->
 
         <div class="container-fluid contimage">
             <div class="row rowimage">
@@ -81,6 +90,8 @@
             </div>
         </div>
 
+
+<!--The Complication with Finance change initiatives and the increasing need to move away from inefficient processes add picture-->
 
         <div class="container contref">
             <div class="row justify-content-between rowref">
