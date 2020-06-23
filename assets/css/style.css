@@ -2,8 +2,7 @@
 
 body {
     font-family: 'Work Sans', sans-serif;
-    margin: 30px;
-    background-color: purple;        
+    margin: 30px;     
 }
 
 .contintro {
@@ -19,6 +18,12 @@ body {
 }
 
 .contref {
+    border: 1px solid greenyellow;
+    padding-top: 15px;
+    padding-bottom: 15px;
+}
+
+.cont-project {
     border: 1px solid greenyellow;
     padding-top: 15px;
     padding-bottom: 15px;

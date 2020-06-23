@@ -8,16 +8,21 @@
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.6.3/css/all.css" integrity="sha384-UHRtZLI+pbxtHCWp1t77Bi1L4ZtiqrqD80Kn4Z8NTSRyMA2Fd33n5dQ8lWUE00s/" crossorigin="anonymous"/>
     <link href="https://fonts.googleapis.com/css2?family=Work+Sans&display=swap" rel="stylesheet">
+
+<!--Include for the carousel-->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js" integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI" crossorigin="anonymous"></script>
+
 </head>
 
-<body>
+<body class="bg-info text-white">
 
 <!--Navbar Header Setup-->
 
         <nav class="navbar navbar-expand-md fixed-top navbar-dark bg-dark">
             <div class="container-fluid">
                 <img src="assets/images/Logo2.JPG" class="logo rounded float-left" alt="Logo image: Finance Transformation">
-                <a href="https://www.linkedin.com/in/dantehealy/" target="_blank" class="navbar-heading">The Finance Transformation Challenge</a>
+                <a href="https://www.linkedin.com/in/dantehealy/" target="_blank" class="navbar-heading">Finance Transformation</a>
 
                 <ul class="navbar-nav ml-auto" id="navbarmenu">
                     <li class="nav-item">
@@ -34,6 +39,8 @@
         </nav>
 
 <!--Main Body Layout-->
+
+<!--My Bio Profile Section-->
 
         <div class="container contintro">
             <div class="row rowhead">
@@ -56,44 +63,118 @@
             </div>
         </div>
 
+<!--Contact Me via Email-->
+
         <div class="container contintro">            
             <div class="row justify-content-around rowhead2">
                 <div class="col-5 colref" align="center">
                     <h3>Have a challenge and want to get in touch?</h3>  
-                </div>                                       
-                <div class="col-5 colref" align="center">
-                    <h3>Need an experienced Finance Change agent?</h3>
-                </div>                
+                </div>                                                       
             </div>
             <div class="row justify-content-around flash-arrow">                
                 <div class="col-md-1 col-sm-1 colref">
                     <i class="fas fa-long-arrow-alt-down blink"></i>
-                </div>
+                </div>                
+            </div>                        
+            <div class="row justify-content-around rowref">                
+                <div class="col-sm-2 span2">
+                    <a href="mailto:dantepmhealy@gmail.com?subject=Finance Transformation - Inquiry from your Webpage!" type="button" class="btn btn-primary btn-block btn-lg">Send me an Email</a> 
+                </div>                
+            </div>                        
+        </div>
+
+<!--My personal endorsements on a carousel-->
+
+    <div class="container contintro">
+            <div class="row justify-content-center rowref">
+                <div class="col-12 text-center colref">
+                    <h1>PROFESSIONAL ENDORSEMENTS:</h1>
+                </div>                
+            </div>                        
+        </div>
+
+    <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+        <ol class="carousel-indicators">
+            <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            <li data-target="#carouselExampleIndicators" data-slide-to="3"></li>
+        </ol>
+        <div class="carousel-inner">
+            <div class="carousel-item active">
+                <img src="assets/endorse/Gary.JPG" class="d-block w-100" alt="Gary Simon">
+            </div>
+            <div class="carousel-item">
+                <img src="assets/endorse/John.JPG" class="d-block w-100" alt="John Nlewedum">
+            </div>
+            <div class="carousel-item">
+                <img src="assets/endorse/Sarah.JPG" class="d-block w-100" alt="Sarah Davies">
+            </div>
+            <div class="carousel-item">
+                <img src="assets/endorse/Donald.JPG" class="d-block w-100" alt="Donald Tauro">
+            </div>
+        </div>
+        <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+            <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+            <span class="sr-only">Previous</span>
+        </a>
+        <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+            <span class="carousel-control-next-icon" aria-hidden="true"></span>
+            <span class="sr-only">Next</span>
+        </a>
+    </div>
+     
+      
+<!--Download my CV/Resume-->
+
+        <div class="container contintro">            
+            <div class="row justify-content-around rowhead2">                    
+                <div class="col-5 colref" align="center">
+                    <h3>Need an experienced Finance Change agent?</h3>
+                </div>                
+            </div>
+            <div class="row justify-content-around flash-arrow">                                
                 <div class="col-md-1 col-sm-1 colref">
                     <i class="fas fa-long-arrow-alt-down blink"></i>
                 </div>
             </div>                        
-            <div class="row justify-content-around rowref">                
+            <div class="row justify-content-around rowref">                                
                 <div class="col-sm-2 span2">
-                    <button type="button" class="btn btn-primary btn-block btn-lg">Email</button>
-                </div>
-                <div class="col-sm-2 span2">
-                    <button type="button" class="btn btn-info btn-block btn-lg">CV / Resume</button>                
+                    <a class="btn btn-success btn-block btn-lg" role="button" href="assets/docs/my-cv.pdf" target="_blank">Download my CV/Resume</a>                    
                 </div>                
             </div>                        
         </div>
-        
-        <div class="container contref">
-            <div class="row justify-content-between rowref" style="height: 700px;">
-                <div class="col-8 colref">
-                    Free Value Content: Useful Links
-                </div>            
-                <div class="col-4 colref">
-                    Testimonials: LinkedIn recommendations - INSERT IMAGES HERE! 
-                </div>            
+
+
+<!--Some useful Links-->
+
+    <div class="container contref">
+            <div class="row justify-content-center rowref">
+                <div class="col-md-12 col-sm-12 colref">
+                    <h2>Links</h2>
+                    <h4>Professional Organisations I'm associated with:</h4>
+                    <ul>
+                        <li><a href="https://www.cimaglobal.com/" target="_blank" style="color: yellow;">The Chartered Insitute of Management Accountants (CIMA)</a></li>
+                        <li><a href="https://www.pmi.org/" target="_blank" style="color: yellow;">The Project Management Institute (PMI)</a></li>
+                        <li><a href="https://www.apm.org.uk/" target="_blank" style="color: yellow;">The Association for Project Management (APM)</a></li>
+                        <li><a href="https://www.axelos.com/" target="_blank" style="color: yellow;">AXELOS Global Best Practice (MSP/PRINCE2)</a></li>                        
+                        <li><a href="https://codeinstitute.net/about-us/" target="_blank" style="color: yellow;">The Code Institute</a></li>
+                        <li><a href="https://www.learningpeople.com/uk/" target="_blank" style="color: yellow;">The Learning People</a></li>                        
+                    </ul>                
+                    <h4>Some notable Blogs:</h4>
+                    <ul>
+                        <li><a href="https://fsn.co.uk/blog/if-not-now-then-when-are-we-going-to-invest-in-finance-systems/" target="_blank" style="color: yellow;">Gary Simon's analysis of Finance's challenge with modernising.</a></li>
+                        <li><a href="https://www.apm.org.uk/blog/how-to-nail-your-business-case/" target="_blank" style="color: yellow;">My tips on getting that all important business case right!</a></li>
+                        <li><a href="https://www.apm.org.uk/blog/what-makes-a-successful-pmo/" target="_blank" style="color: yellow;">My views on what makes a successful Project Management Organisation, but could have easily been about Finance!</a></li>
+                        <li><a href="https://www.apm.org.uk/blog/how-to-close-a-project/" target="_blank" style="color: yellow;">How I believe a professional should close out a Project properly!</a></li>
+                        <li><a href="https://www.aatcomment.org.uk/audience/employers/why-your-business-should-be-embracing-continuous-professional-development/" target="_blank" style="color: yellow;">My thoughts on the importance of continuous learning and development as a Finance Manager!</a></li>
+                    </ul>
+                </div>                                             
             </div>
         </div>
-      
+
+
+
 
 <!--Footer Layout-->
 
@@ -101,13 +182,14 @@
    
         <div class="row justify-content-center social-media">
             <div class="col-md-1 col-sm-1 align-self-center">
-               <h2>Contact</h2>
+               <h1>Contact</h1>
             </div>
             <div class="col-md-4 col-sm-5">                
                 <a href="https://www.linkedin.com/in/dantehealy/" target="_blank"> <i class="fab fa-linkedin fa-3x"></i></a>
                 <a href="https://www.facebook.com/dante.healy.3" target="_blank"><i class="fab fa-facebook-square fa-3x"></i></a>
                 <a href="https://twitter.com/dante_healy" target="_blank">  <i class="fab fa-twitter-square fa-3x"></i></a>
-                <a href="https://www.instagram.com/patrick_ohealy/" target="_blank"> <i class="fab fa-instagram fa-3x"></i></a>            
+                <a href="https://www.instagram.com/patrick_ohealy/" target="_blank"> <i class="fab fa-instagram fa-3x"></i></a>
+                <a href="https://github.com/DanteHealy" target="_blank"> <i class="fab fa-github-square fa-3x"></i></a>                                    
             </div>                
         </div>
    

@@ -29,6 +29,7 @@ V2. Update the Layouts and footer icons.
 V3. Add Bio and buttons. 
 V4. Include content text. 
 V5. Add pictures, fixed-top navbar and set-up flashing arrow icons above the buttons. 
+V6. Add initial wireframe concept (pdf), Github account to my social media contact, split buttons into their own rows, insert carousel of endorsements in between the contact buttons, refine content and format. 
 
 
 ## Acknowledgement and References
@@ -39,3 +40,6 @@ V5. Add pictures, fixed-top navbar and set-up flashing arrow icons above the but
 4. Academind, applied this approach to setting up my initial layouts: https://www.youtube.com/watch?v=qmPmwdshCMw&t=241s
 5. Resizing image i.e. logo: https://stackoverflow.com/questions/29641526/how-can-images-be-resized-using-bootstrap/29642222#:~:text=Bootstrap%20v3%20and%20below.,based%20on%20the%20screen%20size.
 6. Blinking arrow icons: https://stackoverflow.com/questions/36505651/how-to-animate-icon-fa-circle-using-css-to-look-as-recording-video-blinking-red/36505930
+7. Use Bootstrap carousel for my endorsements: https://getbootstrap.com/docs/4.5/components/carousel/
+8. Get HTML button to send email: https://stackoverflow.com/questions/5773174/html-button-to-send-email
+
