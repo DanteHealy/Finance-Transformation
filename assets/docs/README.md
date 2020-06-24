@@ -44,5 +44,5 @@ V7. Update Operating Model page layout with icons, refine the navbar to include 
 7. Use Bootstrap carousel for my endorsements: https://getbootstrap.com/docs/4.5/components/carousel/
 8. Get HTML button to send email: https://stackoverflow.com/questions/5773174/html-button-to-send-email
 9. Academind, applied for my Navbar toggle: https://www.youtube.com/watch?v=23bpce-5s8I
-
-
+10. Resize my carousel by putting a box around it: https://stackoverflow.com/questions/52560415/how-to-resize-image-in-bootstrap-carousel
+11. Use of Birme to resize endorsement images: 
