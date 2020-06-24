@@ -31,6 +31,7 @@ V4. Include content text.
 V5. Add pictures, fixed-top navbar and set-up flashing arrow icons above the buttons. 
 V6. Add initial wireframe concept (pdf), Github account to my social media contact, split buttons into their own rows, insert carousel of endorsements in between the contact buttons, refine content and format. 
 V7. Update Operating Model page layout with icons, refine the navbar to include a toggle and tidied up my contact page by aligning elements. 
+V8. Further refinements including removing my manual borders and unnecessary items.
 
 
 ## Acknowledgement and References

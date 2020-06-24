@@ -94,16 +94,15 @@ body {
 
 /* ---------------------------------------- Footer-Social-Media */
 
-
 .social-media {
-    text-align: center;
-    display: inline;
+    display: flex;
+    align-items: center;    
 }
 
 .social-media i {
     color: white;
-    margin: 5%;
-    padding: 1%;
+    margin: 10px;
+    padding: 20px;    
 }
 
 .social-media i:hover {
