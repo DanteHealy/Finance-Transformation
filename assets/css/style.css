@@ -91,6 +91,14 @@ body {
   to { opacity: 0; }
 }
 
+/* ---------------------------------------- Carousel */
+
+carousel {
+    max-height: 600px;
+    padding-bottom: 50px;
+}
+
+
 
 /* ---------------------------------------- Footer-Social-Media */
 
