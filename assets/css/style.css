@@ -102,15 +102,18 @@ carousel {
 
 /* ---------------------------------------- Footer-Social-Media */
 
-.social-media {
-    display: flex;
-    align-items: center;    
+.social-media {   
+    display: flex;     
+    width: 100%;
+    bottom: 0;    
+    border: none;    
 }
 
-.social-media i {
-    color: white;
-    margin: 10px;
-    padding: 20px;    
+.social-media i {    
+    color: white;    
+    margin-bottom: 10px;
+    margin-right: 10px;
+    margin-left: 10px;
 }
 
 .social-media i:hover {
