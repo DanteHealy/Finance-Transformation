@@ -1,28 +1,26 @@
-/* ---------------------------------------- Main Body and Block Settings */
+/* ---------------------------------------- Main Body plus text and image container Settings */
 
 body {
     font-family: 'Work Sans', sans-serif; 
 }
 
 .contintro {    
-    padding-top: 15px;
-    padding-bottom: 15px; 
+    padding-top: 10px;
+    padding-bottom: 10px; 
 }
 
 .contimage {    
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
 .contref {    
-    padding-top: 15px;
-    padding-bottom: 15px;
+    padding-top: 10px;
+    padding-bottom: 10px;
 }
 
-.cont-project {    
-    padding-top: 15px;
-    padding-bottom: 15px;
-}
+
+/* ---------------------------------------- Extra padding on top row to accomodate the navbar */
 
 .rowhead {    
     padding-top: 70px;
@@ -40,12 +38,21 @@ body {
     overflow: hidden;
 }
 
+.row-button {    
+    padding-top: 40px;
+    padding-bottom: 10px;
+    overflow: hidden;
+}
+
+
+/* ---------------------------------------- Spacing around Operating model icons */
+
 .project-critical i {
     padding-top: 20px;    
 }
 
 
-/* ---------------------------------------- Images */
+/* ---------------------------------------- Logo sizing */
 
 .logo {
     margin-right: 5%;
@@ -53,26 +60,8 @@ body {
     height: auto;
 }
 
-.scale-image {
-    width: 80%;
-    object-fit: cover;
-    height: 200px;
-}
 
-.transform-pic {    
-    width: 100%;
-    height: auto; 
-}
-
-.office-admin {
-    height: 100%;
-    width: auto; 
-}
-
-.pain-pic {
-    width: 100%; 
-    height: auto;    
-}
+/* ---------------------------------------- Insert flashing arrow icon */
 
 .flash-arrow i {
     font-size: 5em;
@@ -90,13 +79,13 @@ body {
   to { opacity: 0; }
 }
 
+
 /* ---------------------------------------- Carousel */
 
 carousel {
     max-height: 600px;
     padding-bottom: 50px;
 }
-
 
 
 /* ---------------------------------------- Footer-Social-Media */
