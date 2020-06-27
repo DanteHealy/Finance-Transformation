@@ -47,4 +47,5 @@ V9. Completing the final touch-ups to the design layout and formating. Still nee
 8. Get HTML button to send email: https://stackoverflow.com/questions/5773174/html-button-to-send-email
 9. Academind, applied for my Navbar toggle: https://www.youtube.com/watch?v=23bpce-5s8I
 10. Resize my carousel by putting a box around it: https://stackoverflow.com/questions/52560415/how-to-resize-image-in-bootstrap-carousel
-11. Use of Birme to resize endorsement images: 
+11. Use of Birme to resize endorsement images: https://www.birme.net/?target_width=2500
+12. Add animation to logo image in navbar taking back to homepage: https://www.w3schools.com/howto/howto_css_zoom_hover.asp

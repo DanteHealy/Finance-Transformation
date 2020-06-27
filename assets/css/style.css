@@ -52,12 +52,19 @@ body {
 }
 
 
-/* ---------------------------------------- Logo sizing */
+/* ---------------------------------------- Navbar Logo sizing and animation */
 
-.logo {
-    margin-right: 5%;
-    max-width: 10%;
-    height: auto;
+.logo img {
+    height: 50px;  /* Ajust size to fit on navbar */
+    width: auto; 
+    transition: transform .2s; /* Animation */
+}
+
+
+/* ---------------------------------------- Add hover animation to logo image */
+
+.logo img:hover {
+    transform: scale(1.2);  /* 120% zoom */ 
 }
 
 
@@ -106,6 +113,7 @@ carousel {
 
 .social-media i:hover {
     color: orangered;
+    transform: scale(1.2);  /* 120% zoom */ 
     transition-delay: 0.2s;
     transition-timing-function: ease-in-out;
 }
