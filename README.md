@@ -49,3 +49,4 @@ V9. Completing the final touch-ups to the design layout and formating. Still nee
 10. Resize my carousel by putting a box around it: https://stackoverflow.com/questions/52560415/how-to-resize-image-in-bootstrap-carousel
 11. Use of Birme to resize endorsement images: https://www.birme.net/?target_width=2500
 12. Add animation to logo image in navbar taking back to homepage: https://www.w3schools.com/howto/howto_css_zoom_hover.asp
+13. Include an image to image zoom from hover: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_zoom
