@@ -6,13 +6,19 @@ My first project from The Code Institute Full Stack Developer course is to creat
 The subect involves "Finance Transformation" which I'm passionate about and is my current target career. 
 I've included my bio and contact in case this webpage interests anyone who might be looking for a Finance change agent. 
 
+As this is my first project I've elected to keep things as simple as possible whilst trying to apply as much design cues as appropriate in order to attract users to my webpage. 
+
 
 ## User Experience (UX)
-The purpose of this website is to build my personal brand by leveraging my knowledge of Finance transformation and communicate my value by educating Finance professionals on how to effectively link strategy to execution through the use of target operating models. 
+The purpose of this website is to build my personal brand by leveraging my knowledge of Finance transformation, through: 
+ - Highlighting the challenges some Finance organisations have with modernising and 
+ - Communicating my value by educating Finance professionals on how to effectively link strategy to execution through the application of the target operating model and project management frameworks. 
+In essence I am planning to use this website as a content marketing campaign with my skills as the product which I will post on LinkedIn to demonstrate my knowledge of Finance and strategic change programmes and projects with contact details should anyone want to reach out to me.
 
-- As a Finance Leader, I can learn about what makes a Finance Transformation successful so that I can apply best practice in my plans to design and deliver effective change. 
-- As a Finance Professional, I can learn about “Finance Transformation” so that I can decide if it’s a suitable career path for me. If it resonates I might also follow Dante for more thought leadership.
-- As a recruiter and employer I can evaluate Dante's expertise with delivering Finance Transformation and contact him for further opportunities. 
+- As a Finance Leader, I can learn about what makes a Finance Transformation successful so that I can apply best practice in my plans to design and deliver effective change. I may want to engage Dante for a transformation project in the future. 
+- As a Finance Professional, I can learn about “Finance Transformation” so that I can decide if it’s a suitable career path for me. If it resonates I might also follow Dante for more thought leadership or reach out for career advice.
+- As a recruiter or employer of Finance professionals I can evaluate Dante's expertise with respect to delivering Finance Transformation and contact him for further opportunities. 
+
 
 ### Wireframes
 
@@ -72,18 +78,28 @@ Further down the page I list some useful links including my previous blogs plus 
 
 ## Testing
 
-### Reviews
-Tested the screens myself on multiple devices (Laptop, iPad and iPhone 7)
-Sent the webpage to my selected friends and family to test on their devices and feedback  
-Posted my link via workflow on the Peer-Review SLACK group with the Code Institute
-Had my content and design reviewed by certain select people amongst my LinkedIn contacts for any changes neede. 
-Tested all the links and features as I was coding. 
-Any obvious spacing, design or layout issues were fixed or de-scoped shortly after issue identification. 
-
+### Reviews of webpage
+##### 1. Tested the screens myself on multiple devices (Laptop, iPad and iPhone 7)
+##### 2. Sent the webpage to my selected friends (work colleagues and LinkedIn contacts) and family (wife and brother) to test on their devices and provide feedback 
+##### 3. Posted my link via workflow on the Peer-Review SLACK group with the Code Institute for feedback 
+##### 4. Had my content and design reviewed by certain select people amongst my LinkedIn contacts for any changes neede. 
+##### 5. Tested all the links and features as I was coding to ensure that they worked. 
+##### 6. Any obvious spacing, design or layout issues were tracked and either fixed immediately, or checked with the SLACK group or de-scoped after alternative solution was found and successfully deployed. 
 
 ### Coding Error checks
-Used the validator to check HTML and CSS code to verify it was clean. Corrected it until all the tabs returned as clean. 
-Double-check the visual effect on multiple screens using the 'Am I Responsive?' online tool. 
+##### 7. Used the validator to check HTML and CSS code to verify it was clean. Corrected it until all the tabs returned as clean. 
+
+![CSS validation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/CSS%20Validation%2030062020.JPG)
+![INDEX.HTML validation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/HTML%20Index%20Validation%2030062020.JPG)
+![OpModel.HTML valiation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/HTML%20OpModel%20Validation%2030062020.JPG)
+![Resume.HTML validation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/HTML%20Resume%20Validation%2030062020.JPG)
+
+##### 8. Double-check the visual effect on multiple screens using the 'Am I Responsive?' online tool. 
+See page header. 
+
+## Deployment
+
+[TBD]
 
 
 ## Acknowledgement and References
@@ -95,7 +111,7 @@ Double-check the visual effect on multiple screens using the 'Am I Responsive?' 
 4. My LinkedIn connections who kindly provided feedback Alejandra Huamán Ordóñez (on design) and Vered Zimmerman (content and design). 
 5. My former work colleagues at Ford Credit who provided input and feedback into the design (Sarah Davies, Ramesh Mistry and Olu Odulana). 
 
-### References
+### Coding References
 1. The Code Instituate course modules. 
 2. Readme file layouts: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 3. Using Bootstrap, link: https://getbootstrap.com/docs/4.5/getting-started/introduction/

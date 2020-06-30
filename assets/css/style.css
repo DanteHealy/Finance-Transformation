@@ -26,7 +26,7 @@ body h3 {
 
 /* ------------------------------------------------- Extra-padding-on-the-rows */
 
-/* --------------------- Extra-padding-on-top-row-to-accomodate-the-navbar */
+/* --------------------- Extra-padding-on-top-row-to-accomodate-the-navbar-and-border-underline-for-styling-break */
 .rowhead {    
     padding-top: 90px;    
     padding-bottom: 5px;
@@ -51,7 +51,7 @@ body h3 {
     overflow: hidden;
 }
 
-/* ---------------------------------------- Zoom-image-on-hover-effect */
+/* ---------------------------------------- Zoom-image-on-hover-effect-for-home-page-and-OpModel-images */
 .rowimage img {
     transition: all 1.5s ease;    
 }
@@ -61,7 +61,7 @@ body h3 {
 }
 
 
-/* ---------------------------------------- Spacing-around-Operating-model-icons */
+/* ---------------------------------------- Spacing-around-Project-execution-icons-x12-in-Operating-Model-tab */
 .project-critical i {
     padding-top: 20px;    
 }
@@ -75,7 +75,7 @@ body h3 {
 }
 
 
-/* ---------------------------------------- Add-hover-animation-to-logo-image */
+/* ---------------------------------------- Add-hover-animation-to-scale-logo-image */
 .logo img:hover {
     transform: scale(1.1);  /* 110% zoom */ 
 }
