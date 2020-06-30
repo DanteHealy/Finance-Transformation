@@ -1,4 +1,6 @@
-# "My First Milestone Project" by Dante Healy on 'Finance Transformation'
+![Am-I-Responsive-Image](https://f9742579-442d-4cb9-af97-cd028073293b.ws-eu01.gitpod.io/mini-browser/workspace/first-milestone-project/assets/docs/Responsive-Design.JPG)
+
+# "Finance Transformation" by Dante Healy
 ## Background 
 My first project from The Code Institute Full Stack Developer course is to create a fully functioning webpage using HTML, CSS plus applicable frameworks e.g. Bootstrap. 
 The subect involves "Finance Transformation" which I'm passionate about and is my current target career. 
@@ -12,12 +14,22 @@ The purpose of this website is to build my personal brand by leveraging my knowl
 - As a Finance Professional, I can learn about “Finance Transformation” so that I can decide if it’s a suitable career path for me. If it resonates I might also follow Dante for more thought leadership.
 - As a recruiter and employer I can evaluate Dante's expertise with delivering Finance Transformation and contact him for further opportunities. 
 
+### wireframes
+
+#### Initial concept wireframe:
+
+![First wireframe](https://github.com/DanteHealy/first-milestone-project/blob/53697c8489abd770fb0a56d3f2907a8d3dc4d5fd/assets/docs/Finance%20Transformation%20v2%20-%20initial%20build%20concept.pdf)
+
+#### Final wireframe: 
+
+![Finale wireframe](https://github.com/DanteHealy/first-milestone-project/blob/53697c8489abd770fb0a56d3f2907a8d3dc4d5fd/assets/docs/Finance%20Transformation%20v3%20-%20Final%20design.pdf)
+
 
 ## Features
 Building a website based on x3 sections as per initial wireframes (Balsamiq) with working navigation and a responsive layout using a mobile-first approach. 
 
 ### Overall for all pages 
-Navbar header - has a navigation menu that collapses when viewed on smaller screens placed in the top right corner. The Logo image is hyperlinked so that the user can go straight back to the home page without opening the hamburger to toggle. 
+Navbar header - has a navigation menu that collapses when viewed on smaller screens placed in the top right corner. The Logo image is hyperlinked so that the user can go straight back to the home page without opening the hamburger to toggle and zooms when on hover so they are aware it does something. 
 The footer has social media icons with links to my social media accounts in order to connect and / or follow me. 
 
 ### Home Page: 
@@ -54,7 +66,7 @@ Further down the page I list some useful links including my previous blogs plus 
     https://pixabay.com/
 11. Birme: A web portal for sizing multiple images to the exact same scale at the same time. https://www.birme.net/?target_width=2500
 12. W3C Markup Validation for error checking my code. https://validator.w3.org/#validate_by_uri
-13. Used Am I Responsive? for validating the design of my webpages on various screen sizes at the same time: http://ami.responsivedesign.is/#
+13. Used Am I Responsive? for validating the design of my webpages on various screen sizes at the same time. http://ami.responsivedesign.is/#
 14. Google and Youtube for ad hoc problems. 
 
 
@@ -81,8 +93,7 @@ Double-check the visual effect on multiple screens using the 'Am I Responsive?' 
 2. The Code Institute's instructors and fellow students who supported me when I was struggling - too many to mention individually! :-) 
 3. My wife for taking the time to review my webpage from the early developements. 
 4. My LinkedIn connections who kindly provided feedback Alejandra Huamán Ordóñez (on design) and Vered Zimmerman (content and design). 
-5. My former work colleagues who provided input and feedback into the design (Sarah Davies, Ramesh Mistry and Olu Odulana). 
-
+5. My former work colleagues at Ford Credit who provided input and feedback into the design (Sarah Davies, Ramesh Mistry and Olu Odulana). 
 
 ### References
 1. The Code Instituate course modules. 
@@ -96,8 +107,8 @@ Double-check the visual effect on multiple screens using the 'Am I Responsive?' 
 9. Academind, applied for my Navbar toggle: https://www.youtube.com/watch?v=23bpce-5s8I
 10. Resize my carousel by putting a box around it: https://stackoverflow.com/questions/52560415/how-to-resize-image-in-bootstrap-carousel
 11. Use of Birme to resize endorsement images: https://www.birme.net/?target_width=2500
-12. Add animation to logo image in navbar taking back to homepage: https://www.w3schools.com/howto/howto_css_zoom_hover.asp
+12. Add zoom animation to logo image in navbar taking back to homepage: https://www.w3schools.com/howto/howto_css_zoom_hover.asp
 13. Include an image to image zoom from hover: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_zoom
 14. Using a card instead in the Operating Model: https://getbootstrap.com/docs/4.2/components/card/
-15. Create a 3D flip box to switch images: https://www.w3schools.com/howto/howto_css_flip_box.asp [DID NOT USE IN THE END AS RAN OUT OF TIME TO MAKE THIS WORK PROPERLY!]
+15. Create a 3D flip box to switch images: https://www.w3schools.com/howto/howto_css_flip_box.asp (Note: I DID NOT USE IN THE END AS RAN OUT OF TIME TO MAKE THIS WORK PROPERLY!]
 
