@@ -90,7 +90,7 @@ body h3 {
 /* ---------------------------------------- Insert-flashing-arrow-icon */
 .flash-arrow i {
     font-size: 50px;
-    color: red;
+    color: #d9534f;
     text-shadow: 5px 5px 5px yellow;
     padding-top: 10px;
 }
@@ -128,7 +128,7 @@ carousel {
 }
 
 .social-media i:hover {
-    color: orangered;
+    color: #d9534f;
     transform: scale(1.2);  /* 120% zoom */ 
     transition-delay: 0.2s;
     transition-timing-function: ease-in-out;

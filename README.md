@@ -7,14 +7,14 @@ The subect involves "Finance Transformation" which I'm passionate about and is m
 I've included my bio and contact in case this webpage interests anyone who might be looking for a Finance change agent. 
 
 
-## User Experience
+## User Experience (UX)
 The purpose of this website is to build my personal brand by leveraging my knowledge of Finance transformation and communicate my value by educating Finance professionals on how to effectively link strategy to execution through the use of target operating models. 
 
 - As a Finance Leader, I can learn about what makes a Finance Transformation successful so that I can apply best practice in my plans to design and deliver effective change. 
 - As a Finance Professional, I can learn about “Finance Transformation” so that I can decide if it’s a suitable career path for me. If it resonates I might also follow Dante for more thought leadership.
 - As a recruiter and employer I can evaluate Dante's expertise with delivering Finance Transformation and contact him for further opportunities. 
 
-### wireframes
+### Wireframes
 
 #### Initial concept wireframe:
 
