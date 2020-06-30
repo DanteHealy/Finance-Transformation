@@ -1,4 +1,4 @@
-![Am-I-Responsive-Image](https://f9742579-442d-4cb9-af97-cd028073293b.ws-eu01.gitpod.io/mini-browser/workspace/first-milestone-project/assets/docs/Responsive-Design.JPG)
+![Am-I-Responsive-Image](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/Responsive-Design.JPG)
 
 # "Finance Transformation" by Dante Healy
 ## Background 
@@ -18,11 +18,11 @@ The purpose of this website is to build my personal brand by leveraging my knowl
 
 #### Initial concept wireframe:
 
-![First wireframe](https://github.com/DanteHealy/first-milestone-project/blob/53697c8489abd770fb0a56d3f2907a8d3dc4d5fd/assets/docs/Finance%20Transformation%20v2%20-%20initial%20build%20concept.pdf)
+![First wireframe](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/Finance%20Transformation%20v2%20-%20initial%20build%20concept.pdf)
 
 #### Final wireframe: 
 
-![Finale wireframe](https://github.com/DanteHealy/first-milestone-project/blob/53697c8489abd770fb0a56d3f2907a8d3dc4d5fd/assets/docs/Finance%20Transformation%20v3%20-%20Final%20design.pdf)
+![Finale wireframe](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/Finance%20Transformation%20v3%20-%20Final%20design.pdf)
 
 
 ## Features
