@@ -5,6 +5,7 @@ body {
 
 body h3 {
     font-family: 'Playfair Display', serif;
+    text-align: center;
 }
 
 .contintro {    
@@ -23,7 +24,9 @@ body h3 {
 }
 
 
-/* ---------------------------------------- Extra-padding-on-top-row-to-accomodate-the-navbar */
+/* ------------------------------------------------- Extra-padding-on-the-rows */
+
+/* --------------------- Extra-padding-on-top-row-to-accomodate-the-navbar */
 .rowhead {    
     padding-top: 90px;    
     padding-bottom: 5px;
@@ -47,7 +50,6 @@ body h3 {
     padding-bottom: 10px;
     overflow: hidden;
 }
-
 
 /* ---------------------------------------- Zoom-image-on-hover-effect */
 .rowimage img {
