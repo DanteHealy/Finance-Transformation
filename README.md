@@ -10,7 +10,7 @@ As this is my first project I've elected to keep things as simple as possible wh
 
 ## User Experience (UX):
 The purpose of this website is to build my personal brand by leveraging my knowledge of Finance transformation, through: 
- - Highlighting the challenges some Finance organisations have with modernising and 
+ - Highlighting the challenges some Finance organisations have with modernising
  - Communicating my value by educating Finance professionals on how to effectively link strategy to execution through the application of the target operating model and project management frameworks. 
 In essence I am planning to use this website as a content marketing campaign with my skills as the product which I will post on LinkedIn to demonstrate my knowledge of Finance and strategic change programmes and projects with contact details should anyone want to reach out to me.
 
@@ -86,11 +86,15 @@ Further down the page I list some useful links including my previous blogs plus 
 ##### 6. Used the validator to check HTML and CSS code to verify it was clean. Corrected it until all the tabs returned as clean. 
 
 ###### https://jigsaw.w3.org/css-validator/#validate_by_input
-![CSS validation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/CSS%20Validation%2030062020.JPG)
 
+![CSS validation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/CSS%20Validation%2030062020.JPG)
+style.css
 ###### https://validator.w3.org/#validate_by_input
+index.html
 ![INDEX.HTML validation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/HTML%20Index%20Validation%2030062020.JPG)
+opmodel.html
 ![OpModel.HTML valiation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/HTML%20OpModel%20Validation%2030062020.JPG)
+resume.html
 ![Resume.HTML validation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/HTML%20Resume%20Validation%2030062020.JPG)
 
 ##### 7. Double-check the visual effect on multiple screens using the 'Am I Responsive?' online tool. 
@@ -108,7 +112,7 @@ See page header.
     Note: Also removed target="_blank" and had to resize the logo image in CSS as it resized when I replaced the navbar title text.
 7. Reduced the size of the social media icons in the footer as they didn't line up nicely when using a mobile view: Done. 
 
-Additional testing comments: 
+#### Additional testing comments: 
 Any obvious spacing, design or layout issues were tracked and either fixed immediately, or checked with the SLACK group or de-scoped after alternative solution was found and successfully deployed. 
 The sizing of the endorsements on the carousel are not ideal, but the length of their recommendations varied so I had to accomodate this so I couldn't align this perfectly. 
 The birme tool was helful in that initial image loads caused the height of the carousel to change in transition which for me was not pleasant to look at: 
