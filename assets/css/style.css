@@ -113,6 +113,12 @@ carousel {
 
 
 /* ---------------------------------------- Footer-Social-Media */
+
+footer {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
 .social-media {   
     display: flex;     
     width: 100%;

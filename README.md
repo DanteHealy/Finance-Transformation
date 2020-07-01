@@ -101,7 +101,7 @@ resume.html
 See page header. 
 
 
-#### Issues identified in testing: 
+#### Issues identified in testing and peer feedback: 
 1. Wording edits required in my copy. Initial content was described as 'too wordy' or needed minor spelling corrections. 
 2. Initial web design was functional, but lacked creativity: I added some highlight and underline (see red) in the heading and searched for better pictures (using Adobe for a free 1 month trial) and added some zoom animations to a couple of pictures. 
 3. Also, initial use of fonts was lacking so I looked at Google fonts for professional combinations and elected for Roboto sans serif, with Playfair display (for my quote sections)
@@ -111,6 +111,9 @@ See page header.
 6. I had the logo wtih a comment section next to it and the logo was going to my LinkedIn page, but was advised this was duplication and therefore I instead repointed the link to the homepage: Done. 
     Note: Also removed target="_blank" and had to resize the logo image in CSS as it resized when I replaced the navbar title text.
 7. Reduced the size of the social media icons in the footer as they didn't line up nicely when using a mobile view: Done. 
+8. Footer looked cramp and needs some padding at the top and bottom: Done. 
+9. Consider using less text: This is content marketing - I've aimed to reduce the content where possible. 
+10. Zoom in hero image looks intimidating: That was the intention as a call to action! 
 
 #### Additional testing comments: 
 Any obvious spacing, design or layout issues were tracked and either fixed immediately, or checked with the SLACK group or de-scoped after alternative solution was found and successfully deployed. 
@@ -146,7 +149,7 @@ For future deployments I will aim to look at hosting externally, but due to the 
 4. My LinkedIn connections who kindly provided feedback Alejandra Huamán Ordóñez (on design) and Vered Zimmerman (content and design). 
 5. My former work colleagues at Ford Credit who provided input and feedback into the design (Sarah Davies, Ramesh Mistry and Olu Odulana). 
 
-### Coding References
+### Coding references and citations 
 1. The Code Instituate course modules. 
 2. Readme file layouts: https://gist.github.com/PurpleBooth/109311bb0361f32d87a2
 3. Using Bootstrap, link: https://getbootstrap.com/docs/4.5/getting-started/introduction/
@@ -162,4 +165,5 @@ For future deployments I will aim to look at hosting externally, but due to the 
 13. Include an image to image zoom from hover: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_zoom
 14. Using a card instead in the Operating Model: https://getbootstrap.com/docs/4.2/components/card/
 15. Create a 3D flip box to switch images: https://www.w3schools.com/howto/howto_css_flip_box.asp (Note: I DID NOT USE IN THE END AS RAN OUT OF TIME TO MAKE THIS WORK PROPERLY!]
+16. Taking the creative cue from the Resume project about sharing my CV if anyone wants to get in touch. I thought this was a nice touch. 
 
