@@ -19,7 +19,7 @@ In essence I am planning to use this website as a content marketing campaign wit
 - As a recruiter or employer of Finance professionals I can evaluate Dante's expertise with respect to delivering Finance Transformation and contact him for further opportunities. 
 
 
-### Wireframes
+## Wireframes: 
 
 #### Initial concept wireframe:
 ![First wireframe](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/Finance%20Transformation%20v2%20-%20initial%20build%20concept.pdf)
@@ -86,9 +86,9 @@ Further down the page I list some useful links including my previous blogs plus 
 ##### 6. Used the validator to check HTML and CSS code to verify it was clean. Corrected it until all the tabs returned as clean. 
 
 ###### https://jigsaw.w3.org/css-validator/#validate_by_input
-
-![CSS validation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/CSS%20Validation%2030062020.JPG)
 style.css
+![CSS validation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/CSS%20Validation%2030062020.JPG)
+
 ###### https://validator.w3.org/#validate_by_input
 index.html
 ![INDEX.HTML validation](https://github.com/DanteHealy/first-milestone-project/blob/master/assets/docs/HTML%20Index%20Validation%2030062020.JPG)
@@ -165,5 +165,5 @@ For future deployments I will aim to look at hosting externally, but due to the 
 13. Include an image to image zoom from hover: https://www.w3schools.com/howto/tryit.asp?filename=tryhow_css_image_overlay_zoom
 14. Using a card instead in the Operating Model: https://getbootstrap.com/docs/4.2/components/card/
 15. Create a 3D flip box to switch images: https://www.w3schools.com/howto/howto_css_flip_box.asp (Note: I DID NOT USE IN THE END AS RAN OUT OF TIME TO MAKE THIS WORK PROPERLY!]
-16. Taking the creative cue from the Resume project about sharing my CV if anyone wants to get in touch. I thought this was a nice touch. 
+16. Taking the creative cue from the Resume project about sharing my CV if anyone wants to get in touch- I thought this was a nice touch. 
 
