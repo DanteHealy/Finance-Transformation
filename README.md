@@ -123,7 +123,7 @@ The birme tool was helful in that initial image loads caused the height of the c
 
 
 ## Deployment:
-My site is being hosted on Github: https://dantehealy.github.io/first-milestone-project/
+My site is being hosted on Github: https://dantehealy.github.io/Finance-Transformation/
 
 1. Established my own Github account by registering on https://github.com/ 
     If you are reading this file you are already accessing my public profile which is https://github.com/DanteHealy 
